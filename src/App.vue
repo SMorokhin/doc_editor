@@ -4,6 +4,8 @@
 <template>
     <div class="doc-editor">
         Doc editor
+
+        <router-view />
     </div>
 </template>
 
